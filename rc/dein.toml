@@ -27,8 +27,5 @@ repo = 'itchyny/lightline.vim'
 [[plugins]]
 repo = 'scrooloose/syntastic'
 
-[[plugins]]
-repo = 'tomasr/molokai'
-
 # other plugins
 # :
