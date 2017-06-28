@@ -1,0 +1,4 @@
+[[plugins]] # Codic
+repo = 'koron/codic-vim'
+on_cmd = 'Codic'
+
