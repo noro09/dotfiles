@@ -12,5 +12,5 @@ else
 	sudo apt-get install neovim
 	sudo pip3 install -U pip
 	sudo pip3 install neovim
-	echo "neovim install complet!"
+	echo "neovim install complete!"
 fi

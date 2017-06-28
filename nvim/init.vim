@@ -75,6 +75,8 @@ nnoremap <silent> ,uu :<C-u>Unite file_mru buffer<CR>
 "NERDTree
 map <C-n> :NERDTreeToggle<CR>
 
+"Terminal setting
+tnoremap <silent> <ESC> <C-\><C-n>
 
 set number                   "行番号
 
