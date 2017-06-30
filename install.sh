@@ -16,6 +16,6 @@ askYesOrNo() {
 askYesOrNo "latexをインストールしますか？"
 if [ $? -eq 0 ]; then
 	yes | sudo apt-add-repository ppa:texlive-backports/ppa
-	sudo apt-get install texlive-lang-cjk
+	sudo apt-get install -y texlive-lang-cjk
 fi
 
